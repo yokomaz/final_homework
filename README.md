@@ -28,6 +28,9 @@ https://github.com/user-attachments/assets/e393168c-f841-4e55-82fe-5939f81b4ceb
 
 https://github.com/user-attachments/assets/4657f007-7b0c-4f7d-985a-85cd5fee261f
 
+https://github.com/user-attachments/assets/44373d5b-ca00-4a88-814d-7420924bec7b
+
+https://github.com/user-attachments/assets/b2874899-115c-4215-b07c-1ffa6521bbfc
 
 
 # 任务2使用方法：
@@ -36,3 +39,10 @@ https://github.com/user-attachments/assets/4657f007-7b0c-4f7d-985a-85cd5fee261f
 ## 渲染方法
 
 根据3D Gaussian splatting的readme文件，下载安装viewer程序，修改由3D Gaussian Splatting生成的cfg_args文件后，运行.\SIBR gaussianViewer app.exe m ~viewer output查看实时结果
+
+### 渲染结果
+
+
+https://github.com/user-attachments/assets/3daaaa84-85b2-411c-a502-dbe69b88db75
+
+
